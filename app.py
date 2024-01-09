@@ -10,7 +10,7 @@ def hello_world():
 
 @app.route("/test")
 def test():
-    return "<h1>TEST</h1>"
+    return "<h1>TEST!</h1>"
 
 
 if __name__ == "__main__":
